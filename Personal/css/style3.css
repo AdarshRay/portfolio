@@ -1,0 +1,11 @@
+.occupation
+{
+  font-size: 13px;
+  color: #4286f4;
+}
+.friendshadow:hover
+{
+  box-shadow: 0px 0px 10px 2px #8e8e8e;
+  border-radius: 30px;
+  transition-duration: 0.5s;
+}
